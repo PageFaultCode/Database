@@ -1,0 +1,3 @@
+[submodule "CommonWealth"]
+	path = CommonWealth
+	url = git@github.com:PageFaultCode/CommonWealth.git
